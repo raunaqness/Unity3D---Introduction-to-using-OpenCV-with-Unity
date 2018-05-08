@@ -2,8 +2,6 @@
 
 ![demo](https://media.giphy.com/media/9D8UMP23FPaSmRgMWa/giphy.gif)
 
-High-Res Demo : [https://www.youtube.com/watch?v=xBpTh_HoESo&feature=youtu.be](https://www.youtube.com/watch?v=xBpTh_HoESo&feature=youtu.be)
-
 ## Overview
 
 FistJump is a simple project that helps demonstrate how data can be passed from an OpenCV Server to a Unity3D app.
